@@ -3,7 +3,7 @@
     {
       "id": 1,
       "img": "https://media.istockphoto.com/photos/headshot-of-a-beautiful-black-woman-picture-id123286536?k=20&m=123286536&s=612x612&w=0&h=IWE1jUha8TQCAr1guc_VZOB04UBH0wji0XXT9xSJIEk=",
-      "name": "Dr. Sophie",
+      "name": "Sophie",
       "owner": "Sophie",
       "breed": "Mackins", 
       "gender": "female",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "img": "https://cdn.pixabay.com/photo/2017/06/26/02/47/man-2442565__340.jpg",
-      "name": "Dr. Liam",
+      "name": "Liam",
       "owner": "Liam",
       "breed": "Nattins", 
       "gender": "male",
@@ -43,7 +43,7 @@
     {
       "id": 3,
       "img": "https://placeimg.com/450/450/people",
-      "name": "Dr. Noah",
+      "name": "Noah",
       "owner": "Noah",
       "breed": "Kise", 
       "gender": "male",
@@ -63,7 +63,7 @@
     {
       "id": 4,
       "img": "https://cdn.pixabay.com/photo/2016/01/10/22/07/woman-1132617__340.jpg",
-      "name": "Dr. Emma",
+      "name": "Emma",
       "owner": "Emma",
       "breed": "Rugwero", 
       "gender": "female",
@@ -83,7 +83,7 @@
     {
       "id": 5,
       "img": "https://cdn.pixabay.com/photo/2017/11/19/07/30/girl-2961959__340.jpg",
-      "name": "Dr. James",
+      "name": "James",
       "owner": "James",
       "breed": "Korir", 
       "gender": "male",
@@ -103,7 +103,7 @@
     {
       "id": 6,
       "img": "https://cdn.pixabay.com/photo/2016/06/06/17/05/woman-1439909__340.jpg",
-      "name": "Dr. Olivia",
+      "name": "Olivia",
       "owner": "Olivia",
       "breed": "Anne", 
       "gender": "female",
@@ -123,7 +123,7 @@
     {
       "id": 7,
       "img": "https://cdn.pixabay.com/photo/2018/03/12/12/32/woman-3219507__340.jpg",
-      "name": "Dr. Logan",
+      "name": "Logan",
       "owner": "Logan",
       "breed": "Hulk", 
       "gender": "male",
@@ -143,7 +143,7 @@
     {
       "id": 8,
       "img": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166__340.jpg",
-      "name": "Dr. Benjamin",
+      "name": "Benjamin",
       "owner": "Benjamin",
       "breed": "Franklin", 
       "gender": "male",
@@ -163,7 +163,7 @@
     {
       "id": 9,
       "img": "https://cdn.pixabay.com/photo/2017/08/09/13/35/model-2614569__340.jpg",
-      "name": "Dr. Mason",
+      "name": "Mason",
       "owner": "Mason",
       "breed": "Mount", 
       "gender": "male",
@@ -185,7 +185,7 @@
     {
       "id": 1,
       "img": "https://media.istockphoto.com/photos/headshot-of-a-beautiful-black-woman-picture-id123286536?k=20&m=123286536&s=612x612&w=0&h=IWE1jUha8TQCAr1guc_VZOB04UBH0wji0XXT9xSJIEk=",
-      "name": "Dr. Sophie",
+      "name": "Sophie",
       "owner": "Sophie",
       "breed": "Mackins", 
       "gender": "female",
@@ -205,7 +205,7 @@
     {
       "id": 2,
       "img": "https://cdn.pixabay.com/photo/2017/06/26/02/47/man-2442565__340.jpg",
-      "name": "Dr. Liam",
+      "name": "Liam",
       "owner": "Liam",
       "breed": "Nattins", 
       "gender": "male",
